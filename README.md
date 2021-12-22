@@ -1,17 +1,27 @@
 # RedSpace
 
 Run project locally
- - Sever
+ ### Run the API Server
+    
+    In a terminal:
+
+    ```bash
     # Initial setup
     npm install or yarn
 
     # Start the Server
     npm start
+    ```
 
- - Client
+ ### Run the React UI
+
+    ```bash
+    # Change directory, first
+    cd client/
+
     # Initial setup
-    cd client
-    npm install or yarn
+    - npm install or yarn
 
     # Start the Client
     npm start
+    ```
