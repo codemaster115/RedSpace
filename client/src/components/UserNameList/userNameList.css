@@ -1,0 +1,16 @@
+.userNameItem {
+    font-size: 18px;
+    padding: 10px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.userNameItem:hover {
+    background-color: rgb(58, 53, 53);
+    color: rgb(246, 244, 241);
+}
+
+.userNameItem:active {
+    background-color: rgb(58, 53, 53);
+    color: rgb(143, 135, 123);
+}

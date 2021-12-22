@@ -1,0 +1,14 @@
+.userContainer {
+    display: flex;
+    padding: 40px 30px;
+}
+
+.userNameList {
+    width: "30%";
+}
+
+.userDetails {
+    text-align: center;
+    margin-left: 50px;
+    flex: auto;
+}
